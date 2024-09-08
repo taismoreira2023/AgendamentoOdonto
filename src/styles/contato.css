@@ -1,0 +1,23 @@
+@charset "utf-8";
+#section_contato{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+#section_contato .social_media_buttons{
+    margin: 20px 0 20px 0;
+    align-items: center;
+}
+
+
+#contato_content{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#copyrigth{
+    font-style: italic;
+    
+}
